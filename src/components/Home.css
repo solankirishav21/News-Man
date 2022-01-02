@@ -1,0 +1,15 @@
+body{
+    background-color: #d8e4e7;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    align-items: center;
+    /* height: 247vh; */
+}
+.btn{
+    /* padding: 0.3rem 0.5rem;
+    display: block;
+    width: 30%; */
+    margin: auto;
+}
