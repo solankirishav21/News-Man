@@ -25,7 +25,7 @@ const Signup = () => {
     <>
      <div className="container" style={{ width: "400px" }}>
       <div className="p-4 box">
-        <h2 className="mb-3">Firebase Auth Signup</h2>
+        <h2 className="mb-3">NesMan - Sign up</h2>
         {error && <div className="alert alert-danger" role="alert">{error}</div>}
         <form onSubmit={handleSubmit}>
           <div className="form-group mb-3" controlId="formBasicEmail">

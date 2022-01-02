@@ -36,7 +36,7 @@ const Login = () => {
     <>
     <div className="container" style={{ width: "400px" }}>
       <div className="p-4 box">
-        <h2 className="mb-3 text-center">NewsMan </h2>
+        <h2 className="mb-3 text-center">NewsMan - Log In </h2>
         {error && <div className="alert alert-danger" role="alert">{error}</div>}
         <form onSubmit={handleSubmit}>
           <div className="form-group mb-3" controlId="formBasicEmail">
